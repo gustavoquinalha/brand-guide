@@ -21,7 +21,8 @@ O logotipo do Training Center é uma assinatura universal que usamos em todas os
 
 ## Paleta principal
 
-| Primary |
-| ------- |
+| Primary | White |
+| ------- | ------- |
 | ![#15a04b](https://placehold.it/90x50/15a04b/000000?text=+) |
+  ![#ffffff](https://placehold.it/90x50/ffffff/000000?text=+) |
 | `#15a04b` |

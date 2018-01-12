@@ -1,16 +1,12 @@
-<p align="center">
-  <img src="./assets/jpg/logo-training-center-blue-256.jpg" alt="Training Center">
-</p>
-
-# Training Center Brand Guide
+# DevParaná Brand Guide
 
 > Use nosso logo do jeito certo.
 
 ## Logo
 
-O logotipo do Training Center é uma assinatura universal que usamos em todas os nossos projetos e nossas comunicações. É importante que ele não seja editado, alterado, distorcido ou recolorido.
+O logotipo do DevParaná é uma assinatura universal que usamos em todas os nossos projetos e nossas comunicações. É importante que ele não seja editado, alterado, distorcido ou recolorido.
 
-![Logo Training Center](./logo-training-center-aplicacao.jpg)
+![Logo DevParaná](./logo-devpr-aplicacao.jpg)
 
 ### Downloads
 - [SVG](./assets/svg)

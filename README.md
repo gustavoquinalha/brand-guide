@@ -18,6 +18,6 @@ O logotipo do DevParaná é uma assinatura universal que usamos em todas os noss
 ## Paleta principal
 
 | Primary | White | Black |
-| ------- | ------- |
+| ------- | ------- | ------- |
 | ![#15a04b](https://placehold.it/90x50/15a04b/000000?text=+) | ![#ffffff](https://placehold.it/90x50/ffffff/000000?text=+) | ![#0f1110](https://placehold.it/90x50/0f1110/000000?text=+) |
 | `#15a04b` |  `#ffffff` |  `#0f1110` |
